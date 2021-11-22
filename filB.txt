@@ -1,1 +1,2 @@
 "Dette er fil B" 
+Bug 01
